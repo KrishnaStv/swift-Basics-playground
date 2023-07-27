@@ -1,5 +1,5 @@
 import UIKit
-//https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics
+
 let staticText = "Hello"
 //staticText = "New value"
 var dynamicText = "Hello"
